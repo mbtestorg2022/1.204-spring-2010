@@ -4,37 +4,363 @@ title: Calendar
 uid: 4d38cf75-d484-3a4e-2d2d-6fb8aefa0b9b
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Databases**{{< /td-colspan >}} |||
-| 1 | Database: Entity-relationship modeling | &nbsp; |
-| 2 | Database: Normalization, SQL basics | Problem set 0 due |
-| 3 | Database: SQL joins, views, subqueries | &nbsp; |
-| 4 | Database: JDBC | Problem set 1 due |
-| {{< td-colspan 3 >}}**Data Structures**{{< /td-colspan >}} |||
-| 5 | Algorithms: Analysis, complexity | &nbsp; |
-| 6 | Stacks, queues, trees, dictionaries | &nbsp; |
-| 7 | Graphs | Problem set 2 due |
-| 8 | Heaps, sets | &nbsp; |
-| {{< td-colspan 3 >}}**Divide-and-Conquer and Greedy Algorithms**{{< /td-colspan >}} |||
-| 9 | Divide-conquer: Binary search, quicksort, selection | &nbsp; |
-| 10 | Greedy: Knapsack, job sequence | Problem set 3 due |
-| 11 | Greedy: Minimum spanning trees | &nbsp; |
-| 12 | Greedy/dynamic programming: Shortest paths | &nbsp; |
-| &nbsp; | Quiz 1 | &nbsp; |
-| {{< td-colspan 3 >}}**Dynamic Programming**{{< /td-colspan >}} |||
-| 13 | Priniciple of optimality, resource allocation | Problem set 4 due |
-| 14 | Job scheduling, graph/tree generation | &nbsp; |
-| 15 | Knapsack problem, set representation | &nbsp; |
-| {{< td-colspan 3 >}}**Branch-and-Bound**{{< /td-colspan >}} |||
-| 16 | Branch and bound: Backtrack method, knapsack problem | Problem set 5 due |
-| 17 | Branch and bound: General method, facility location | &nbsp; |
-| {{< td-colspan 3 >}}**Linear and Nonlinear Optimization**{{< /td-colspan >}} |||
-| 18 | Continuous constrained nonlinear optimization | &nbsp; |
-| 19 | Network equilibrium | Problem set 6 due |
-| 20 | Linear systems | &nbsp; |
-| 21 | Continuous unconstrained nonlinear optimization | &nbsp; |
-| 22 | Unconstrained methods: Amoeba, BFGS, demand model estimation | &nbsp; |
-| {{< td-colspan 3 >}}**Approximate Queues and Network Designs**{{< /td-colspan >}} |||
-| 23 | Analytic approximations: Network design | Problem set 7 due |
-| 24 | Approximate queuing analysis | Problem set 8 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Databases**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Database: Entity-relationship modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Database: Normalization, SQL basics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 0 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Database: SQL joins, views, subqueries
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Database: JDBC
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Data Structures**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Algorithms: Analysis, complexity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Stacks, queues, trees, dictionaries
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Graphs
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Heaps, sets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Divide-and-Conquer and Greedy Algorithms**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Divide-conquer: Binary search, quicksort, selection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Greedy: Knapsack, job sequence
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Greedy: Minimum spanning trees
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Greedy/dynamic programming: Shortest paths
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Dynamic Programming**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Priniciple of optimality, resource allocation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Job scheduling, graph/tree generation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Knapsack problem, set representation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Branch-and-Bound**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Branch and bound: Backtrack method, knapsack problem
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Branch and bound: General method, facility location
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Linear and Nonlinear Optimization**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous constrained nonlinear optimization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Network equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Linear systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous unconstrained nonlinear optimization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Unconstrained methods: Amoeba, BFGS, demand model estimation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Approximate Queues and Network Designs**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Analytic approximations: Network design
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Approximate queuing analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
