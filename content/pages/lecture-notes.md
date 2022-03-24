@@ -52,7 +52,7 @@ Database: Entity-relationship modeling
 Database: Normalization, SQL basics
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit1_204s10_lec02))
+([PDF]({{< baseurl >}}/resources/mit1_204s10_lec02))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -67,7 +67,7 @@ Database: Normalization, SQL basics
 Database: SQL joins, views, subqueries
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit1_204s10_lec03))
+([PDF]({{< baseurl >}}/resources/mit1_204s10_lec03))
 {{< tdclose >}}
 {{< tdopen >}}
 
