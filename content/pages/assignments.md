@@ -36,7 +36,7 @@ Intercity passenger rail schedules
 
 ([PDF]({{< baseurl >}}/resources/mit1_204s10_assn1))
 
-([TXT](/courses/civil-and-environmental-engineering/1-204-computer-algorithms-in-systems-engineering-spring-2010/assignments/acela.txt))
+({{% resource_link "c1bc71c8-53a9-d005-3857-6bc0939feff7" "TXT" %}})
 
 
 {{< tdclose >}}

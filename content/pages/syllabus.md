@@ -17,7 +17,7 @@ This course covers concepts of computation used in analysis of engineering syste
 Prerequisites
 -------------
 
-[_1.001 Introduction to Computers and Engineering Problem Solving_](/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/) is the prerequisite, which has [_18.01 Calculus_](/courses/18-01-single-variable-calculus-fall-2006) as a prerequisite. [_6.005 Elements of Software Construction_](/courses/6-005-elements-of-software-construction-fall-2008) is also accepted. If you haven't taken 1.001 and don't know Java or C++ or C#, you may take 1.204 if you attend at least the first month of 1.001 as a listener. You should have some prior programming experience if you do this.
+[_1.001 Introduction to Computers and Engineering Problem Solving_](/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012) is the prerequisite, which has [_18.01 Calculus_](/courses/18-01-single-variable-calculus-fall-2006) as a prerequisite. [_6.005 Elements of Software Construction_](/courses/6-005-elements-of-software-construction-fall-2008) is also accepted. If you haven't taken 1.001 and don't know Java or C++ or C#, you may take 1.204 if you attend at least the first month of 1.001 as a listener. You should have some prior programming experience if you do this.
 
 Course Requirements
 -------------------
