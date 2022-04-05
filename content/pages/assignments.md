@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 86bee70a-9661-c040-b705-41a347d30982
 ---
@@ -36,7 +39,7 @@ Intercity passenger rail schedules
 
 ([PDF]({{< baseurl >}}/resources/mit1_204s10_assn1))
 
-({{% resource_link "c1bc71c8-53a9-d005-3857-6bc0939feff7" "TXT" %}})
+([TXT]({{< baseurl >}}/resources/acela))
 
 
 {{< tdclose >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5c600c3e-8c80-e984-8a10-ac99c18efd48
 ---
@@ -52,7 +55,7 @@ Database: Entity-relationship modeling
 Database: Normalization, SQL basics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_204s10_lec02))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit1_204s10_lec02))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -67,7 +70,7 @@ Database: Normalization, SQL basics
 Database: SQL joins, views, subqueries
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_204s10_lec03))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit1_204s10_lec03))
 {{< tdclose >}}
 {{< tdopen >}}
 

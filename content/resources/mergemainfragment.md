@@ -3,6 +3,11 @@ content_type: resource
 description: This is a supporting file for problem set 4.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/15224b89b91de45596f8cb9a0c1dbe10_MergeMainFragment.java
 file_type: text/x-java
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 86bee70a-9661-c040-b705-41a347d30982
 resourcetype: Other
 title: MergeMainFragment.java

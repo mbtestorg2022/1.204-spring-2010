@@ -1,11 +1,14 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: a675da2d-2051-75bc-6b2a-1f91a9ec3fd4
 ---
 
-JavaTM and Eclipse
-------------------
+Java{{< sup "TM" >}} and Eclipse
+--------------------------------
 
 See the installation instructions in [_6.092 Introduction to Programming in Java_](/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/syllabus).
 
